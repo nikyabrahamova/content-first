@@ -6,9 +6,10 @@
 
 - [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
 - [About](#about)
-- [Featured Projects](#featured-projects)
-- [Notes](#notes)
-
+- [Portfolio](#featured-projects)
+- [LET'S NOT BE BLIND](#notes)
+- [Bond of friendship](#notes)
+  
 ## About
 
 ![Niky](https://github.com/nikyabrahamova/content-first/assets/148855906/050709e3-5d80-439d-b697-66f3900f2226)
