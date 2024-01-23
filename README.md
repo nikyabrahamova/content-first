@@ -12,7 +12,11 @@
   
 ## About
 
-![Niky](https://github.com/nikyabrahamova/content-first/assets/148855906/050709e3-5d80-439d-b697-66f3900f2226)
+![Niky2](https://github.com/nikyabrahamova/content-first/assets/148855906/e7e39580-ee45-42ff-9995-24bdde5d5e2d)
+
+
+
+
 
 
 Hi, my name is Nikola Abrahamova and I'm a creative all-round photographer. For me, photography is more than just clicking the trigger. It's the way I can share my view of the world and capture the moments that inspire and move me.
